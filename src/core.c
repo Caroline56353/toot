@@ -6,3 +6,4 @@ a beep that really beeps - cross-platform command line tool to toot "tooot" - it
 // drop an unused branch
 // drop an unused branch
 // handle the edge case from the last release
+// keep defaults in sync with the manifest
